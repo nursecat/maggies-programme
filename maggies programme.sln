@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the beans", "the beans\the beans.csproj", "{5100F036-D307-4B4B-A238-077665921190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ears", "ears\ears.csproj", "{7EF9CDCC-098D-4A65-91EF-BD472EE9A48E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5100F036-D307-4B4B-A238-077665921190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5100F036-D307-4B4B-A238-077665921190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5100F036-D307-4B4B-A238-077665921190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5100F036-D307-4B4B-A238-077665921190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF9CDCC-098D-4A65-91EF-BD472EE9A48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF9CDCC-098D-4A65-91EF-BD472EE9A48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF9CDCC-098D-4A65-91EF-BD472EE9A48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF9CDCC-098D-4A65-91EF-BD472EE9A48E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
